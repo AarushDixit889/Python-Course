@@ -1,0 +1,10 @@
+1,Who invented python?,Dennis Richie,James Gosling,Thomas Alva Edison,Guido Van Rossum,4
+2,In which language python is invented?,Java,C,COBOL,C#,2
+3,What kind of control flow statement while is?,A Loop,A Conditional statement,Breaks,Continues,1
+4,What kind of operator + is?,Arithmetic operator,Relative operator,Logical operator,No such thing such as +,1
+5,What is eval() function?,Eval is a function in that can evaluate a statement such as '2+3',Eval is a operator,A control flow statement,There is nothing such as eval,1
+6,What is panch  keyword?,A operator for joining two strings,A conditional statement,Tells antonym of a word,There is nothing such as panch,4
+7,Can we use loops in python?,Yes,No,,,1
+8,What is main keyword for the conditional statements?,panch,while,for,if,4
+9,Distinguish between for and while loops?,For - iterate and while - conditionerate,For - conditionerate and while iterate,,,1
+10,When code flow goes in else block?,When if condition is not true,When loops break,Another if,,1
